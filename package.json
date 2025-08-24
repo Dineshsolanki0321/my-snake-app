@@ -1,7 +1,7 @@
 {
   "name": "my-snake-app",
   "version": "0.1.0",
-  "homepage": "https://Dineshsolanki0321.github.io/my-snake-app",
+  "homepage": "https://dineshsolanki0321.github.io/my-snake-app/",
   "private": true,
   "dependencies": {
     "@react-three/drei": "^10.0.6",
