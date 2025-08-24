@@ -20,7 +20,7 @@ const JOYSTICK_DEADZONE = 0.1;
 const BACKGROUND_GRID_SIZE = 60; // Size of background grid squares - No longer used for drawing grid
 
 // IMPORTANT: Replace with your actual server URL if different
-const SERVER_URL = 'https://storage.googleapis.com/snakeapp/server.js';
+const SERVER_URL = '34.28.216.145';
 
 // Assuming you have food images named 1.png, 2.png, ..., 36.png in a 'public/food' directory
 const FOOD_IMAGE_TYPES = 36;
