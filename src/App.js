@@ -552,7 +552,6 @@ function App() {
         }
 
         socketRef.current = io(SERVER_URL, {
-            transports: ["websocket", "polling"], // Ensure polling is included as a fallback
             reconnection: true,
             reconnectionAttempts: 5,
             reconnectionDelay: 1000,
